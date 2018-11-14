@@ -1,0 +1,13 @@
+name: bear
+version: 0.1.0
+
+authors:
+  - arubinofaux <arubinofaux@gmail.com>
+
+targets:
+  bear:
+    main: src/bear.cr
+
+crystal: 0.27.0
+
+license: MIT
